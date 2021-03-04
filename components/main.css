@@ -15,5 +15,24 @@ main {
 }
 
 .title-container {
-    margin: 0px;
+    margin: 0px 0px 0px 100px;
+    display: flex;
+    align-items; left;
+    justify-content: center;
+    width: 1000px;
+    flex-direction:column;
+    padding-top: 100px;
+}
+
+.title-container h1 {
+    font-size: 140px;
+    font-weight:bold;
+    margin-top: 0px;
+    margin-bottom:0px;
+}
+
+.title-container h3 {
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
