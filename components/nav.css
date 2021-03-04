@@ -1,0 +1,28 @@
+nav {
+  font-family: 'Roboto', sans-serif; 
+  background-color: #06191a;
+  height: 11vh;
+  color: #d6e9d1;
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+}
+
+nav a {
+  color: #d6e9d1;
+  text-decoration: none;
+  font-weight: 800;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+.icon {
+  margin: 0px;
+  height: 8vh;
+}
+
+.nav-links {
+  justify-content: center;
+  margin: 30px 10px;
+}
