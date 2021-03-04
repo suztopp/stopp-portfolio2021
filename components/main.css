@@ -1,19 +1,17 @@
 main {
     font-family: 'Roboto', sans-serif; 
     color: #D6E9D1;
-    /* background-image: url(/images/background-image2.jpg);
+    background-image: url(/images/background-image2.jpg);
     height: 90vh;
-    background-position: left;
+    background-position: center;
     background-size: cover;
-    background-repeat: none;
-    background-attachment: fixed; */
+    background-attachment: fixed;
 }
 
-/* @media only screen and (max-width: 700px) {
+@media only screen and (max-width: 700px);
     main {
-        background-image: url(/images/background-image2-mobile.jpg);
+        background-position: left;
     }
-} */
 
 .title-container {
     margin: 0px 0px 0px 100px;
@@ -42,6 +40,18 @@ main {
 @media only screen and (max-width: 700px) {
     .title-container {
         flex-wrap: wrap;
-        width: 300px;
+        width: 100px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .title-container h1 {
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .title-container h3 {
+        font-size: 20px;
     }
 }
