@@ -1,0 +1,19 @@
+main {
+    font-family: 'Roboto', sans-serif; 
+    color: #D6E9D1;
+    background-image: url(/images/background-image2.jpg);
+    height: 90vh;
+    background-position: left;
+    background-size: cover;
+    background-repeat: none;
+    background-attachment: fixed;
+}
+
+@media only screen and (max-width: 700px)
+main {
+    background-position: left;
+}
+
+.title-container {
+    margin: 0px;
+}
