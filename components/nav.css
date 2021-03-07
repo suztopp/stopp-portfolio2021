@@ -1,5 +1,5 @@
 nav {
-  font-family: 'Roboto', sans-serif; 
+  font-family: "Roboto", sans-serif;
   background-color: #06191a;
   height: 11vh;
   color: #d6e9d1;
@@ -21,6 +21,7 @@ nav a {
 .icon {
   margin: 0px;
   height: 8vh;
+  padding: 0px;
 }
 
 .nav-links {
@@ -28,22 +29,29 @@ nav a {
   margin: 30px 10px;
 }
 
+@media only screen and (max-width: 700px) {
+  nav {
+    height: 90px;
+  }
+}
 .hamburger {
   display: none;
 }
 
 .hamburger-links {
-  display:none;
+  display: none;
 }
 
 .hamburger-links li {
   list-style: none;
+  font-weight: bold;
   text-align: center;
-  margin: 10px 0px;
 }
 
 .hamburger-links li a {
-  color: #1C2D2E;
+  color: #1c2d2e;
+  font-weight: bold;
+  justify-content: center;
 }
 
 .hamburger-inner,
@@ -64,8 +72,9 @@ nav a {
   }
   .hamburger {
     display: block;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     align-items: flex-end;
     margin: 5px 5px;
+    justify-self: normal;
   }
 }
