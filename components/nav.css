@@ -27,3 +27,45 @@ nav a {
   justify-content: center;
   margin: 30px 10px;
 }
+
+.hamburger {
+  display: none;
+}
+
+.hamburger-links {
+  display:none;
+}
+
+.hamburger-links li {
+  list-style: none;
+  text-align: center;
+  margin: 10px 0px;
+}
+
+.hamburger-links li a {
+  color: #1C2D2E;
+}
+
+.hamburger-inner,
+.hamburger-inner::before,
+.hamburger-inner::after {
+  background: #d6e9d1;
+}
+
+.hamburger.is-active .hamburger-inner,
+.hamburger.is-active .hamburger-inner::before,
+.hamburger.is-active .hamburger-inner::after {
+  background: #d6e9d1;
+}
+
+@media only screen and (max-width: 500px) {
+  .nav-links {
+    display: none;
+  }
+  .hamburger {
+    display: block;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 5px 5px;
+  }
+}

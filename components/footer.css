@@ -1,7 +1,8 @@
 footer {
-    height: 50%;
+    height: 50px;
     display: flex;
     flex-direction: row-reverse;
     justify-content: flex-start;
     align-items: center;
+    margin: 0px;
 }
