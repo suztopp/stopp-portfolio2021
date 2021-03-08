@@ -18,6 +18,11 @@ nav a {
   font-size: 20px;
 }
 
+.nav-links a:hover {
+  color:#e36397;
+  border: 1px solid #e36397;
+}
+
 .icon {
   margin: 0px;
   height: 8vh;
@@ -46,12 +51,14 @@ nav a {
   list-style: none;
   font-weight: bold;
   text-align: center;
+  text-decoration: none;
 }
 
 .hamburger-links li a {
   color: #1c2d2e;
   font-weight: bold;
   justify-content: center;
+  text-decoration: none;
 }
 
 .hamburger-inner,

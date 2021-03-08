@@ -1,0 +1,43 @@
+.main-about-me {
+  font-family: "Roboto", sans-serif;
+  color: #d6e9d1;
+  background-image: url(/images/background-image2.jpg);
+  height: 90vh;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+@media only screen and (max-width: 700px) {
+  .main-about-me {
+    background-position: left;
+  }
+}
+
+.about-me-container {
+    max-width: 900px;
+    margin: 0 auto;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container {
+    width: 60%;
+}
+
+.image-container img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.about-me-description {
+    width: 70%;
+    padding: 0 0 0 15px;
+}
+
+.about-me-description p {
+    font-size: 32px;
+    font-weight:bolder;
+}
