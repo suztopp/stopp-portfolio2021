@@ -1,0 +1,41 @@
+.blog-main {
+  background-color: #314344;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  font-size: 55px;
+  color: #d6e9d1;
+  font-weight: bolder;
+  padding: 0 0;
+}
+
+.blog-main h1 {
+  margin: 10px;
+}
+
+.blog-main p {
+  margin: 10px;
+}
+.blog-main p a {
+  font-size: 30px;
+  color: #4bcc28;
+}
+
+@media only screen and (max-width: 900px;) {
+  .blog-main h1 {
+    font-size: 40px;
+  }
+  .blog-main p {
+    font-size: 25px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .blog-main h1 {
+    font-size: 30px;
+  }
+  .blog-main p {
+    font-size: 20px;
+  }
+}

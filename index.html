@@ -1,70 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Suz Topp Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
-</head>
-<body>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+      <div id="top"></div>
     <nav>
-        <section class="icon">
-            <a href="index.html"><img src="/images/icons8-moon-stars-80.png"></a>
-        </section>
-        <div class="hamburger-container">
-            <button
-              class="hamburger hamburger--elastic button-outline"
-              type="button"
-            >
-              <span class="hamburger-box">
-                <span class="hamburger-inner"></span>
-              </span>
-            </button>
-          </div>
-        <section class="nav-links">
-            <div class="home">
-                <a href="">CONTACT</a>
-                <a href="index.html">HOME</a>
-                <a href="/pages/aboutme.html">ABOUT ME</a>
-                <a href="/pages/blog.html">BLOG</a>
-                <a href="/pages/work.html">WORK</a>
-            </div>
-        </section>
+      <section class="icon">
+        <a href="index.html"><img src="/images/icons8-moon-stars-80.png" /></a>
+        
+      </section>
+      <div class="hamburger-container">
+        <button
+          class="hamburger hamburger--elastic button-outline"
+          type="button"
+        >
+          <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+          </span>
+        </button>
+      </div>
+      <section class="nav-links">
+        <div>
+          <a class = "icons" href="https://github.com/suztopp"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
+          <a class = "icons" href="https://www.instagram.com/suziiiiiq/?hl=en"><img src="https://img.icons8.com/dusk/64/000000/instagram-new.png"></a>
+          <a class = "icons" href="https://www.linkedin.com/in/suzanne-topp-99707153/?originalSubdomain=au"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
+          <a href="">CONTACT</a>
+          <a href="index.html">HOME</a>
+          <a href="/pages/aboutme.html">ABOUT ME</a>
+          <a href="/pages/blog.html">BLOG</a>
+          <a href="/pages/work.html">WORK</a>
+        </div>
+      </section>
     </nav>
     <ul class="hamburger-links">
-        <li><a href="">CONTACT</a></li>
-        <li><a href="index.html">HOME</a></li>
-        <li><a href="/pages/aboutme.html">ABOUT ME</a></li>
-        <li><a href="/pages/blog.html">BLOG</a></li>
-        <li><a href="/pages/work.html">WORK</a></li>
+      <li><a href="">CONTACT</a></li>
+      <li><a href="index.html">HOME</a></li>
+      <li><a href="/pages/aboutme.html">ABOUT ME</a></li>
+      <li><a href="/pages/blog.html">BLOG</a></li>
+      <li><a href="/pages/work.html">WORK</a></li>
+      <li><a class="icons" href="https://github.com/suztopp"><img src="https://img.icons8.com/nolan/64/github.png"></a></li>
+      <li><a class="icons" href="https://www.instagram.com/suziiiiiq/?hl=en"><img src="https://img.icons8.com/dusk/64/000000/instagram-new.png"></a></li>
+      <li><a class="icons" href="https://www.linkedin.com/in/suzanne-topp-99707153/?originalSubdomain=au"><img src="https://img.icons8.com/nolan/64/linkedin.png"></a></li>
     </ul>
     <main class="main-background">
-        <div class="title-container">
-            <h1>Hello</h1>
-            <h1>I'm Suz Topp</h1>
-            <h3>I'm an aspiring developer, nice to meet you :)</h3>
-        </div>
-        <footer>
+      <div class="title-container">
+        <h1>Hello</h1>
+        <h1>I'm Suz Topp</h1>
+        <h3>I'm an aspiring developer, nice to meet you :)</h3>
+        <div class="footer"><a href="#top">BACK TO THE TOP</a></div>
+      </div>
+      <!-- <footer>
             <a class = "icons" href="https://github.com/suztopp"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
             <a class = "icons" href="https://www.instagram.com/suziiiiiq/?hl=en"><img src="https://img.icons8.com/dusk/64/000000/instagram-new.png"></a>
             <a class = "icons" href="https://www.linkedin.com/in/suzanne-topp-99707153/?originalSubdomain=au"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
-        </footer>>
+        </footer>> -->
     </main>
     <script>
-        const hamburger = document.querySelector('.hamburger')
-        const links = document.querySelector('.hamburger-links')
-        hamburger.addEventListener('click', function () {
-          hamburger.classList.toggle('is-active')
-          const isActive = hamburger.classList.contains('is-active')
-          if (isActive) {
-            links.style.display = 'block'
-          } else {
-            links.style.display = 'none'
-          }
-        })
-      </script>
-</body>
+      const hamburger = document.querySelector(".hamburger");
+      const links = document.querySelector(".hamburger-links");
+      hamburger.addEventListener("click", function () {
+        hamburger.classList.toggle("is-active");
+        const isActive = hamburger.classList.contains("is-active");
+        if (isActive) {
+          links.style.display = "block";
+        } else {
+          links.style.display = "none";
+        }
+      });
+    </script>
+  </body>
 </html>
