@@ -34,26 +34,26 @@
 .work-skills h1 {
   font-size: 32px;
   font-weight: bolder;
-  colour: #d6e9d1;
+  color: #d6e9d1;
 }
 
 .skill-list img {
-    width: 60px;
-    height: 60px;
+  width: 60px;
+  height: 60px;
 }
 
 .work-skills li {
-    font-size: 28px;
-    font-weight: bolder;
-    color:#4bcc28;
+  font-size: 28px;
+  font-weight: bolder;
+  color: #4bcc28;
 }
 
 .download a {
-    font-size: 50px;
-    color: #e36397;
+  font-size: 50px;
+  color: #e36397;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 700px) {
   .work-skills {
     max-width: 800px;
     flex-direction: row;
@@ -68,7 +68,7 @@
     font-size: 24px;
   }
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 500px) {
   .work-skills {
     max-width: 600px;
     flex-direction: row;
@@ -78,7 +78,7 @@
     justify-content: center;
   }
   .work-skills h1 {
-      font-size: 22px;
+    font-size: 22px;
   }
   .work-skills li {
     font-size: 16px;
