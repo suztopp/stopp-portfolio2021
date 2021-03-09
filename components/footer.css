@@ -12,3 +12,11 @@ footer {
         bottom: 50px;
     }
 }
+
+.footer {
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    bottom: 10px;
+    position: fixed;
+  }
