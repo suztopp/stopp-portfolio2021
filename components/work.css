@@ -1,0 +1,81 @@
+.main-work {
+  font-family: "Roboto", sans-serif;
+  color: #d6e9d1;
+  background-image: url(/images/background-image2.jpg);
+  height: 90vh;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.work-container {
+  max-width: 900px;
+  margin: 0 auto;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.work-image-container {
+  width: 60%;
+}
+
+.work-image-container img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.work-skills {
+  width: 70%;
+  padding: 0 0 0 15px;
+}
+
+.work-skills h1 {
+  font-size: 32px;
+  font-weight: bolder;
+  colour: #d6e9d1;
+}
+
+.skill-list img {
+    width: 60px;
+    height: 60px;
+}
+
+.work-skills li {
+    font-size: 28px;
+    font-weight: bolder;
+    color:#4bcc28;
+}
+
+@media only screen and (max-width: 900px) {
+  .work-skills {
+    max-width: 800px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0;
+    justify-content: center;
+  }
+  .work-skills h1 {
+    font-size: 30px;
+  }
+  .work-skills li {
+    font-size: 24px;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .work-skills {
+    max-width: 600px;
+    flex-direction: row;
+    background-position: left;
+    flex-wrap: wrap;
+    margin: 0;
+    justify-content: center;
+  }
+  .work-skills h1 {
+      font-size: 22px;
+  }
+  .work-skills li {
+    font-size: 16px;
+  }
+}
