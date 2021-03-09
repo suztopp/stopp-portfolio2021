@@ -69,7 +69,7 @@ nav a {
 .hamburger.is-active .hamburger-inner,
 .hamburger.is-active .hamburger-inner::before,
 .hamburger.is-active .hamburger-inner::after {
-  background-color: rgb(245, 79, 245);
+  background-color: #e36397;
 }
 
 .hamburger-box {
@@ -130,7 +130,7 @@ nav a {
 }
 
 .hamburger-links li a:hover {
-  color:rgb(245, 79, 245)
+  color:#e36397;
 }
 
 @media only screen and (max-width: 800px) {

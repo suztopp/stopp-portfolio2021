@@ -1,10 +1,24 @@
 footer {
+    color: white;
     height: 50px;
+    font-size: 20px;
+    font-weight: bolder;
     display: flex;
     justify-content: center;
+    align-content:center
+    position: fixed;
     margin: 10px;
-    position:fixed;
     bottom: 0;
+}
+
+.footer a {
+    color: white
+    font-weight: bolder;
+}
+
+.footer a:hover {
+    color: rgb(245, 79, 245);
+    border-bottom: 3px solid rgb(245, 79, 245);
 }
 
 @media only screen and (max-width: 700px) {
@@ -13,10 +27,3 @@ footer {
     }
 }
 
-.footer {
-    color: white;
-    font-size: 20px;
-    font-weight: bolder;
-    bottom: 10px;
-    position: fixed;
-  }
