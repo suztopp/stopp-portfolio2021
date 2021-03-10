@@ -14,9 +14,9 @@
   width: 100%;
   height: 90%;
   display: flex;
-  flex-wrap:wrap;
+  flex-wrap: wrap;
   align-items: flex-start;
-  justify-content:space-evenly;
+  justify-content: space-evenly;
   flex-direction: column;
   padding-top: 20px;
   padding-left: 30px;
@@ -73,7 +73,4 @@
   .blog-post-box span {
     display: none;
   }
-  /* .blog-main p {
-    display: flex;
-  } */
 }
