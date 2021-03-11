@@ -1,9 +1,11 @@
 .blog-post-container {
-  max-width: 900px;
+  max-width: 950px;
   margin: 0 auto;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items:center;
+  border: 1px solid black;
+  padding: 20px;
 }
 
 .blog-image-container {
@@ -40,7 +42,13 @@
     justify-content: center;
   }
   .blog-entry p {
-    font-size: 24px;
+    font-size: 18px;
+  }
+  .blog-image-container {
+    width: 60%;
+  }
+  .blog-entry h1 {
+    font-size: 30px;
   }
 }
 @media only screen and (max-width: 700px) {
@@ -54,5 +62,8 @@
   }
   .blog-entry p {
     font-size: 16px;
+  }
+  .blog-entry h1 {
+    font-size: 20px;
   }
 }

@@ -54,6 +54,7 @@
   margin-bottom: 0px;
 }
 
+
 @media only screen and (max-width: 700px) {
   .title-container {
     flex-wrap: wrap;
@@ -61,25 +62,23 @@
     padding: 30px 5px 5px 5px;
     margin: 0px 10px 10px 30px;
   }
+  .title-container h1 {
+    font-size: 60px;
+    justify-content: left;
+    animation: none;
+  }
+  .title-container h3 {
+    font-size: 30px;
+  }
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 900px) {
   .title-container h1 {
-    font-size: 80px;
+    font-size: 70px;
     justify-content: left;
   }
   .title-container h3 {
     font-size: 40px;
-  }
-}
-
-@media only screen and (max-width: 800px) {
-  .title-container h1 {
-    font-size: 50px;
-    justify-content: left;
-  }
-  .title-container h3 {
-    font-size: 20px;
   }
 }
 
