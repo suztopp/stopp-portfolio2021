@@ -8,8 +8,8 @@
 }
 
 .contact-container {
-    width: 80%;
-    height: 70%;
+    width: 75%;
+    height: 90%;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -21,6 +21,10 @@
 .contact-container h1 {
     font-size: 70px;
     margin: 0;
+}
+
+.image-container {
+    height: 60%;
 }
 
 .text-container {
