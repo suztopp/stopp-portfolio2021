@@ -3,18 +3,18 @@
     height: 100vh;
     width: 100%;
     display: flex;
+    align-items:center;
     justify-content: center;
 }
 
 .contact-container {
-    width: 70%;
+    width: 80%;
     height: 70%;
     display: flex;
     justify-content: center;
     flex-direction: column;
     margin: 0 auto;
     align-items: center;
-    padding-top: 30px;
     color: #d6e9d1;
 }
 
@@ -38,4 +38,9 @@
 .form-container label {
     color: #d6e9d1;
     font-weight: bolder;
+}
+
+form {
+    text-align: center;
+    align-content: center;
 }
