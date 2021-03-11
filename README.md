@@ -56,9 +56,9 @@ This was a final step after deploying the website, to provide secure use of the 
 
 I spent some time originally workign out what design theme I wanted to achieve. I am a huge fan of space and sci-fi, and therefore sourced my background image on UnSplash by searching those key words. I like more over the top designs, and that shows through on my Home Page.
 
-Background Image
+Background Image<br>
 <img src="images/background-image2.jpg" alt="background image" width="1000"><br>
-Colour Palette
+Colour Palette<br>
 <img src="images/palette.jpg" alt="colour palette" width="1000">
 
 I created wireframes in Figma, which were good initial inspiration. I did change a lot of the design as I went though to create a more user friendly version of my intial vision.

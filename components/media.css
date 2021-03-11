@@ -1,4 +1,4 @@
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1024px) {
   nav {
     height: 90px;
   }
@@ -16,15 +16,16 @@
     justify-self: normal;
   }
   .title-container h1 {
-    font-size: 70px;
+    font-size: 60px;
     justify-content: left;
+    animation: none;
   }
   .title-container h3 {
     font-size: 40px;
   }
   footer {
     font-size: 12px;
-    justify-content: right;
+    justify-content: center;
   }
   .blog-post-box {
     width: 90%;
@@ -61,6 +62,9 @@
   .blog-entry h1 {
     font-size: 30px;
   }
+  .main-about-me {
+      height: 100%;
+  }
   .about-me-container {
     max-width: 800px;
     flex-direction: row;
@@ -94,7 +98,7 @@
     flex-wrap: wrap;
     width: 250px;
     padding: 30px 5px 5px 5px;
-    margin: 0px 10px 10px 30px;
+    margin: 0;
   }
   .title-container h1 {
     font-size: 60px;
@@ -135,10 +139,13 @@
 }
 
 @media only screen and (max-width: 480px) {
+  .title-container {
+    margin: 0;
+  }
   .work-skills {
     max-width: 600px;
     flex-direction: row;
-    background-position: left;
+    background-position: center;
     flex-wrap: wrap;
     margin: 0;
     justify-content: center;
@@ -153,9 +160,6 @@
     padding-top: 20px;
     padding-bottom: 0;
     margin-top: 20px;
-  }
-  .blog-main {
-    /* height: 100%; */
   }
   .blog-main h1 {
     font-size: 25px;
