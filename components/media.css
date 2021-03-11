@@ -34,6 +34,9 @@
     padding-top: 10px;
     padding-left: 10px;
   }
+  .blog-main {
+    height: 100%;
+  }
   .blog-main h1 {
     font-size: 35px;
   }
@@ -63,7 +66,7 @@
     font-size: 30px;
   }
   .main-about-me {
-      height: 100%;
+    height: 100%;
   }
   .about-me-container {
     max-width: 800px;
@@ -111,8 +114,10 @@
   footer {
     display: none;
   }
+  .blog-main {
+    height: 100%;
+  }
   .blog-post-container {
-    max-width: 600px;
     flex-direction: row;
     background-position: left;
     flex-wrap: wrap;
@@ -120,10 +125,10 @@
     justify-content: center;
   }
   .blog-entry p {
-    font-size: 16px;
+    font-size: 32px;
   }
   .blog-entry h1 {
-    font-size: 20px;
+    font-size: 40px;
   }
   .about-me-container {
     max-width: 600px;
@@ -169,5 +174,11 @@
   }
   .blog-post-box span {
     display: none;
+  }
+  .blog-entry p {
+    font-size: 20px;
+  }
+  .blog-entry h1 {
+    font-size: 16px;
   }
 }
