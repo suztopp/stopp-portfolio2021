@@ -111,6 +111,7 @@ nav a {
 
 .hamburger-links {
   display: none;
+  padding-left: 0;
 }
 
 .hamburger-links li {
