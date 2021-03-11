@@ -10,6 +10,14 @@ footer {
     bottom: 0;
 }
 
+.footer {
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    bottom: 10px;
+    position: fixed;
+}
+
 .footer a {
     color: white;
     font-weight: bolder;
@@ -23,15 +31,3 @@ footer {
 .footer a:visited {
     color: #d6e9d1;
 }
-
-@media only screen and (max-width: 900px) {
-    footer {
-        font-size: 12px;
-        justify-content: right;
-    }
-}
- @media only screen and (max-width: 700px) {
-     footer {
-         display: none;
-     }
- }

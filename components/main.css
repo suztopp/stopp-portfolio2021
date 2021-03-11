@@ -8,12 +8,6 @@
   background-attachment: fixed;
 }
 
-@media only screen and (max-width: 700px) {
-  .main-background {
-    background-position: left;
-  }
-}
-
 .title-container {
   margin: 0px 0px 0px 100px;
   display: flex;
@@ -52,40 +46,4 @@
   font-size: 50px;
   margin-top: 0px;
   margin-bottom: 0px;
-}
-
-
-@media only screen and (max-width: 700px) {
-  .title-container {
-    flex-wrap: wrap;
-    width: 250px;
-    padding: 30px 5px 5px 5px;
-    margin: 0px 10px 10px 30px;
-  }
-  .title-container h1 {
-    font-size: 60px;
-    justify-content: left;
-    animation: none;
-  }
-  .title-container h3 {
-    font-size: 30px;
-  }
-}
-
-@media only screen and (max-width: 900px) {
-  .title-container h1 {
-    font-size: 70px;
-    justify-content: left;
-  }
-  .title-container h3 {
-    font-size: 40px;
-  }
-}
-
-.footer {
-  color: white;
-  font-size: 20px;
-  font-weight: bolder;
-  bottom: 10px;
-  position: fixed;
 }

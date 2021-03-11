@@ -40,7 +40,6 @@ nav a {
 
 .nav-links {
   justify-content: center;
-  /* margin: 30px 10px; */
 }
 
 .hamburger {
@@ -130,23 +129,4 @@ nav a {
 
 .hamburger-links li a:hover {
   color:#e36397;
-}
-
-@media only screen and (max-width: 800px) {
-  nav {
-    height: 90px;
-  }
-  .icon {
-    max-height: 30px;
-    max-width: 30px;
-  }
-  .nav-links {
-    display: none;
-  }
-  .hamburger {
-    display: block;
-    align-items: flex-end;
-    margin: 5px 5px;
-    justify-self: normal;
-  }
 }
