@@ -1,3 +1,4 @@
+/* COMPONENT */
 .blog-post-container {
   max-width: 950px;
   margin: 0 auto;
@@ -6,7 +7,7 @@
   align-items:center;
   /* padding: 20px; */
 }
-
+/* GRAPHICAL COMPONENT */
 .blog-image-container {
   width: 80%;
 }

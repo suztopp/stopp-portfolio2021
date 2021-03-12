@@ -1,3 +1,4 @@
+/* GRAPHICAL COMPONENT */
 .main-background {
   font-family: "Roboto", sans-serif;
   color: #d6e9d1;
@@ -7,7 +8,7 @@
   background-size: cover;
   background-attachment: fixed;
 }
-
+/* COMPONENT */
 .title-container {
   margin: 0px 0px 0px 100px;
   display: flex;
@@ -26,10 +27,12 @@
 }
 
 .title-container h1 {
+  /* COMPONENT */
   animation-duration: 3s;
   animation-name: slidein;
 }
 
+/* COMPONENT */
 @keyframes slidein {
   from {
     margin-left: 100%;

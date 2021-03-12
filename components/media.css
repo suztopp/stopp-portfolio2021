@@ -23,6 +23,7 @@
   .title-container h3 {
     font-size: 40px;
   }
+  /* COMPONENT */
   footer {
     font-size: 12px;
     justify-content: center;
@@ -102,6 +103,7 @@
     width: 30px;
     height: 30px;
   }
+  /* COMPONENT */
   .download a {
     font-size: 26px;
     color: #e36397;
@@ -132,6 +134,9 @@
   .work-image-container {
     padding-left: 30px;
   }
+  .work-image-container img {
+    margin-left: 20px;
+  }
   .main-background {
     background-position: left;
   }
@@ -153,7 +158,7 @@
     display: none;
   }
   .blog-main {
-    height: 100%;
+    height: 100vh;
   }
   .blog-post-container {
     flex-direction: row;
@@ -178,6 +183,11 @@
   }
   .about-me-description p {
     font-size: 16px;
+  }
+  .download a {
+    font-size: 22px;
+    color: #e36397;
+    text-align: center;
   }
 }
 
