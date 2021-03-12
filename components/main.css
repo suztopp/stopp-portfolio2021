@@ -8,6 +8,7 @@
   background-size: cover;
   background-attachment: fixed;
 }
+
 /* COMPONENT */
 .title-container {
   margin: 0px 0px 0px 100px;
@@ -19,6 +20,7 @@
   flex-flow: column;
 }
 
+/* SEMANTIC HTML */
 .title-container h1 {
   font-size: 140px;
   font-weight: bold;
@@ -26,6 +28,7 @@
   margin-bottom: 0px;
 }
 
+/* SEMANTIC HTML */
 .title-container h1 {
   /* COMPONENT */
   animation-duration: 3s;

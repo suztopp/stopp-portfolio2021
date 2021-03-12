@@ -1,4 +1,5 @@
-.blog-main {
+.blog-main { 
+  /* COMPONENT */
   background-color: #314344;
   height: 100vh;
   display: flex;
@@ -21,11 +22,12 @@
   padding-left: 30px;
 }
 
+/* SEMANTIC HTML */
 .blog-main h1 {
   margin: 10px;
   font-size: 45px;
 }
-
+/* SEMANTIC HTML */
 .blog-main p {
   margin: 10px;
   font-size: 30px;
