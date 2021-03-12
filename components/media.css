@@ -35,9 +35,9 @@
     padding-top: 10px;
     padding-left: 10px;
   }
-  .blog-main {
+  /* .blog-main {
     height: 100%;
-  }
+  } */
   .blog-main h1 {
     font-size: 35px;
   }
@@ -137,6 +137,7 @@
   .work-image-container img {
     margin-left: 20px;
   }
+  /* GRAPHICAL COMPONENT */
   .main-background {
     background-position: left;
   }
@@ -166,6 +167,7 @@
     flex-wrap: wrap;
     margin: 0;
     justify-content: center;
+    padding-top: 10px;
   }
   .blog-entry p {
     font-size: 32px;
@@ -213,6 +215,9 @@
     padding-top: 20px;
     padding-bottom: 0;
     margin-top: 20px;
+  }
+  .blog-main {
+    height: 100%;
   }
   .blog-main h1 {
     font-size: 25px;
