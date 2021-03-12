@@ -138,4 +138,3 @@ Git and Github for version control
 Netlify for deployment and hosting
 
 ### **IMAGE CREDITS**
-
