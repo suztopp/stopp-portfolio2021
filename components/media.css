@@ -66,9 +66,9 @@
   .blog-entry h1 {
     font-size: 30px;
   }
-  .main-about-me {
+  /* .main-about-me {
     height: 100%;
-  }
+  } */
   .about-me-container {
     max-width: 800px;
     flex-direction: row;

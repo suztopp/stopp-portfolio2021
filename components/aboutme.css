@@ -3,7 +3,7 @@
   font-family: "Roboto", sans-serif;
   color: #d6e9d1;
   background-image: url(/images/background-image2.jpg);
-  height: 90vh;
+  height: 100vh;
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -12,12 +12,13 @@
 .about-me-container {
   max-width: 900px;
   margin: 0 auto;
-  /* height: 90vh; */
+  height: 80%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 /* GRAPHICAL COMPONENT */
+
 .image-container {
   width: 60%;
 }

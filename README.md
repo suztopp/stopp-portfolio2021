@@ -95,6 +95,36 @@ The website changed quite a bit through the process, but where I got to in the e
 I moved the socials up to the navbar so they could be in the hamburger drop down for ease.
 I have struggled with responsiveness but have done a lot of work to get to where it is. I will continue to improve this as I learn. Eventually too I would like to add in icons for my skills, as I learn more developing, and to have a Projects page as opposed to a Blog page. The blog page for me will become obsolete eventually.
 
+**HOME PAGE FINAL**
+
+<img src="images/finalscreenshots/homedesktop.jpg" alt="home page desktop" width="1000">
+<img src="images/finalscreenshots/homemobile.jpg" alt="home page mobile" width="300">
+
+**ABOUT ME PAGE FINAL**
+
+<img src="images/finalscreenshots/aboutmedesktop.jpg" alt="about me desktop" width="1000">
+<img src="images/finalscreenshots/aboutmemobile.jpg" alt="about me mobile" width="300">
+
+**WORK PAGE FINAL**
+
+<img src="images/finalscreenshots/workdesktop.jpg" alt="work page desktop" width="1000">
+<img src="images/finalscreenshots/workmobile.jpg" alt="work page mobile" width="300">
+
+**BLOG POSTS PAGE FINAL**
+
+<img src="images/finalscreenshots/bloglistdesktop.jpg" alt="blog posts desktop" width="1000">
+<img src="images/finalscreenshots/blogmobile.jpg" alt="blog posts mobile" width="300">
+
+**BLOG POST SINGLE FINAL**
+
+<img src="images/finalscreenshots/blogpostsingledesktop.jpg" alt="blog single desktop" width="1000">
+<img src="images/finalscreenshots/blogpostsinglemobile.jpg" alt="blog single mobile" width="300">
+
+**CONTACT PAGE FINAL**
+
+<img src="images/finalscreenshots/contactdesktop.jpg" alt="contact page desktop" width="1000">
+<img src="images/finalscreenshots/contactmemobile.jpg" alt="contact page mobile" width="300">
+
 ### **TARGET AUDIENCE**
 
 Potential Development employers, or recruiters. I want them to see that I have what it takes to get my start in the industry, and will follow through with the tech as I learn it.
