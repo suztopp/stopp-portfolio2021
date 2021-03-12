@@ -87,7 +87,7 @@
   .work-container {
     max-width: 800px;
     flex-direction: row;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     margin: 0;
   }
   .work-skills h1 {
@@ -109,10 +109,13 @@
 }
 
 @media only screen and (max-width: 768px) {
+  .main-work {
+    /* flex-direction: row; */
+  }
   .work-container {
     margin: 0;
     justify-content: left;
-    align-items: left;
+    /* align-content: center; */
     padding-left: 30px;
   }
   .work-skills {
@@ -142,7 +145,7 @@
     flex-wrap: wrap;
     width: 250px;
     padding: 30px 5px 5px 5px;
-    margin: 0;
+    margin: 0 auto;
   }
   .title-container h1 {
     font-size: 60px;
@@ -175,7 +178,7 @@
   }
   /* COMPONENT */
   .about-me-container {
-    max-width: 600px;
+    /* max-width: 600px; */
     flex-direction: row;
     background-position: left;
     flex-wrap: wrap;
@@ -195,6 +198,12 @@
 @media only screen and (max-width: 480px) {
   .title-container {
     margin: 0;
+  }
+  .work-container {
+    flex-wrap: wrap;
+  }
+  .about-me-container {
+    padding-top: 10px;
   }
   .work-skills {
     max-width: 90%;
