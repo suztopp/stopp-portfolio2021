@@ -12,13 +12,13 @@ Link to Github repository: https://github.com/suztopp/stopp-portfolio2021
 
 ### **PURPOSE**
 
-The purpose of this website is to act as an example and showcase of my work ethic, in progress skills and personality. It's directed at potential Development employers or recruiters.  I wanted to also show my tastes in colour and imagery.  I wanted this site to stand out and be a fun place to visit.
+The purpose of this website is to act as an example and showcase of my work ethic, in progress skills and personality. It's directed at potential Development employers or recruiters. I wanted to also show my tastes in colour and imagery. I wanted this site to stand out and be a fun place to visit.
 
 ### **FEATURES**
 
 Main Pages
 
-HOME - My Home Page is designed to show the most personality. It welcomes you to my site, tells you my name, and shows navigation to all other pages and social links.  It also shows a tiny bit of animation in desktop size for an added bit of excitement.
+HOME - My Home Page is designed to show the most personality. It welcomes you to my site, tells you my name, and shows navigation to all other pages and social links. It also shows a tiny bit of animation in desktop size for an added bit of excitement.
 
 ABOUT ME - The About Me page is designed to describe me and my history and likes-wants. It shows the audience what I look like, as well as general information.
 
@@ -36,10 +36,9 @@ Blog Example 4 - Place Holder
 
 Blog Example 5 - Place Holder
 
-
 ### **RESPONSIVENESS**
 
-This website is mostly mobile responsive, but needs further work for Tablets. I will continue to improve this over time as I learn more. Text will change as sizing changes, and images will move as needed or be removed.  I removed the footer on smaller views as well to make pages less cluttered.
+This website is mostly mobile responsive, but needs further work for Tablets. I will continue to improve this over time as I learn more. Text will change as sizing changes, and images will move as needed or be removed. I removed the footer on smaller views as well to make pages less cluttered.
 
 ### **NAVIGATION**
 
@@ -49,14 +48,18 @@ All links are interactive in the sense that they show an underline and colour ch
 ### **ACCESSIBILITY**
 
 The site has been audited via Lighthouse on Chrome Dev Tools.
-Results are below.  I worked on various changes to try and improve this as much as possible, but would love to learn how to make the image based pages were accessible for everyone. 
+Results are below. I worked on various changes to try and improve this as much as possible, but would love to learn how to make the image based pages were accessible for everyone.
 
-IMAGE HERE
+<img src="images/finalscreenshots/IndexAccessibility.jpg" alt="home accessibility" width="700"><br>
+<img src="images/finalscreenshots/AboutmeAccessibility.jpg" alt="about me accessibility" width="700"><br>
+<img src="images/finalscreenshots/ContactAccessibility.jpg" alt="contact accessibility" width="700"><br>
+<img src="images/finalscreenshots/BlogAccessibility.jpg" alt="blog accessibility" width="700"><br>
+<img src="images/finalscreenshots/BlogpostAccessibility.jpg" alt="blog post accessibility" width="700"><br>
 
 ### **SRI**
 
 A Sub Resource Integrity check has been added. This is a security measure.  
-This was a final step for the website, to provide secure use of the site's CSS and HTML.  I have used multiple hash tags for this.
+This was a final step for the website, to provide secure use of the site's CSS and HTML. I have used multiple hash tags for this.
 
 ### **DESIGN**
 
@@ -91,7 +94,7 @@ I created wireframes in Figma, which were good initial inspiration. I did change
 
 ### **SITEMAP**
 
-I created a sitemap of the site overall, to see how navigation would work.  I stuck to this plan throughout the design process.  I will ideally make this more minimal over time. 
+I created a sitemap of the site overall, to see how navigation would work. I stuck to this plan throughout the design process. I will ideally make this more minimal over time.
 
 <img src="images/sitemap.jpg" alt="sitemap picture" width="1000">
 
@@ -99,7 +102,7 @@ I created a sitemap of the site overall, to see how navigation would work.  I st
 
 The website changed quite a bit through the process, but where I got to in the end was an easier to navigate version. I utilised some single colour backgrounds to help with text readability.
 I moved the socials up to the navbar so they could be in the hamburger drop down for ease.
-I have struggled with responsiveness but have done a lot of work to get to where it is. I will continue to improve this as I learn. Eventually too I would like to add in icons for my skills, as I learn more developing.  I'd also like to have a Projects page as opposed to a Blog page. The blog page for me will become obsolete eventually.
+I have struggled with responsiveness but have done a lot of work to get to where it is. I will continue to improve this as I learn. Eventually too I would like to add in icons for my skills, as I learn more developing. I'd also like to have a Projects page as opposed to a Blog page. The blog page for me will become obsolete eventually.
 
 **HOME PAGE FINAL**
 
@@ -133,7 +136,7 @@ I have struggled with responsiveness but have done a lot of work to get to where
 
 ### **TARGET AUDIENCE**
 
-Potential Development employers, or recruiters. I want them to see that I have what it takes to get my start in the industry, and will follow through with the tech as I learn it.  I want it to reflect that I have worked hard for many years in my previous industry, and will take that on to my next industry TECH!
+Potential Development employers, or recruiters. I want them to see that I have what it takes to get my start in the industry, and will follow through with the tech as I learn it. I want it to reflect that I have worked hard for many years in my previous industry, and will take that on to my next industry TECH!
 
 ### **TECH STACK**
 
@@ -147,11 +150,11 @@ Git and Github for version control
 
 Netlify for deployment and hosting
 
-
 ### **CREDITS**
 
 https://unsplash.com/photos/M_5bO1WKP4o - I utilised this image for my background pic and have credited in the footer on all desktop pages.<br>
 https://icons8.com/ - I used Icons8 for my icons in the navbar, the Moon icon, Github icon, Instagram icon, and Linkedin Icon.<br>
-https://www.figma.com/ - I worked on Figma to create my wireframes.  Ideally next time I will use a black and white wireframe site but I was happy with the high fidelity wireframes this time around.<br>
+https://www.figma.com/ - I worked on Figma to create my wireframes. Ideally next time I will use a black and white wireframe site but I was happy with the high fidelity wireframes this time around.<br>
 https://www.writemaps.com/ - I used Writemaps to create my sitemap.<br>
-https://fonts.google.com/specimen/Roboto?preview.text_type=custom - I used Roboto as my font for the entire site.  
+https://fonts.google.com/specimen/Roboto?preview.text_type=custom - I used Roboto as my font for the entire site.
+https://www.harrisonmalone.dev/2021/03/navbars - I ustilised Harrison's blog post for the hamburger menu.
