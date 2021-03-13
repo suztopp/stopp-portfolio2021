@@ -1,5 +1,5 @@
-/* GRAPHICAL COMPONENT BACKGROUND */
 .main-about-me {
+  /* GRAPHICAL COMPONENT BACKGROUND */
   font-family: "Roboto", sans-serif;
   color: #d6e9d1;
   background-image: url(/images/background-image2.jpg);
@@ -18,7 +18,6 @@
   align-items: center;
 }
 /* GRAPHICAL COMPONENT */
-
 .image-container {
   width: 60%;
 }
