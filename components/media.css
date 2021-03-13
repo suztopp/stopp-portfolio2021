@@ -87,7 +87,6 @@
   .work-container {
     max-width: 800px;
     flex-direction: row;
-    /* flex-wrap: wrap; */
     margin: 0;
   }
   .work-skills h1 {
@@ -109,13 +108,9 @@
 }
 
 @media only screen and (max-width: 768px) {
-  .main-work {
-    /* flex-direction: row; */
-  }
   .work-container {
     margin: 0;
     justify-content: left;
-    /* align-content: center; */
     padding-left: 30px;
   }
   .work-skills {
@@ -178,7 +173,6 @@
   }
   /* COMPONENT */
   .about-me-container {
-    /* max-width: 600px; */
     flex-direction: row;
     background-position: left;
     flex-wrap: wrap;
