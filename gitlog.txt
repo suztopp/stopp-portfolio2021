@@ -1,0 +1,287 @@
+commit e864810ed9730b2c20378e1884a91775a4f1547d
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Sat Mar 13 12:55:54 2021 +1100
+
+    47th commit added in new sri hashes on each page
+
+commit 72d604a7062f6190534f34b60302cd7c5958db85
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Sat Mar 13 12:44:59 2021 +1100
+
+    46th commit fixed up style sheet link issues
+
+commit d7adf269c6fe2228b4813e34dd612398debbfe27
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Sat Mar 13 12:32:30 2021 +1100
+
+    45th commit removed sri due to page issues on deploy
+
+commit e90fc8c484c41eca3ca813614271f6a14df52655
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Sat Mar 13 12:26:06 2021 +1100
+
+    44th commit added sha512 and sha384 sri hashes to all pages
+
+commit 255c0f14067ffe8ff6e6bd98997371fdfc7cb1be
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Sat Mar 13 11:02:00 2021 +1100
+
+    43rd commit added pics for accessibility for readme
+
+commit 4c28bbe55828f0ff90fe35f90df2aa61af796495
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Sat Mar 13 10:44:56 2021 +1100
+
+    42nd commit trying small changes but not implementing
+
+commit 3d3db8b08ad401d4d484f08663fcf3e08b8881ee
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Fri Mar 12 21:32:03 2021 +1100
+
+    41st commit pre deployment checks
+
+commit 7f0506da88208cc2d4b5d00a30e5035f4ceffc27
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Fri Mar 12 19:44:00 2021 +1100
+
+    40th commit worked on readme file
+
+commit 89701f41d6695fcd9fa32bf28c81f5d74a6180bd
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Fri Mar 12 18:24:22 2021 +1100
+
+    39th commit used prettier to format all pages and checked small issues
+
+commit 79a4cd68907a7e31efa48624ce98acc7b28851f1
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Fri Mar 12 17:59:45 2021 +1100
+
+    38th commit working on adding all alt text for images for accessibility
+
+commit 8044cb4f4440f84d9da9d1348051b30ba0c0287d
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Fri Mar 12 15:29:41 2021 +1100
+
+    37th commmit added final comments for assignment requests components and semantic html
+
+commit cf4d9b4c30891726694f5ce6ca6852c85ea26186
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Fri Mar 12 14:51:33 2021 +1100
+
+    36th commit worked on readme screenshots added of final and fixing responsiveness
+
+commit 477dcc923339408da2c754c576ab1ad4e458eb32
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Fri Mar 12 14:11:48 2021 +1100
+
+    35th commit worked on resposiveness issues
+
+commit 0a5cb19c977f9c9e6efd01b8e7e9228c3455576c
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Fri Mar 12 12:56:09 2021 +1100
+
+    34th commit fixing blog post single page layout issues
+
+commit 5fe57b11c5b1cf1e949e5665d26804c0824a3836
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Fri Mar 12 11:58:42 2021 +1100
+
+    33rd commit working on adding comments half way done
+
+commit 6f900de6b234f82f7784eac9f80ae016188709d5
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Fri Mar 12 09:55:56 2021 +1100
+
+    32nd commit fixing blog links and fixing hamburger menu inner layout
+
+commit eb10019f21b82332f68ea622911f41afc1a50b24
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 11 22:33:39 2021 +1100
+
+    31st commit working on contact page
+
+commit 4152154542c4da204703497c8fdb5648ce563491
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 11 22:27:07 2021 +1100
+
+    30th commit working on work page resonsiveness
+
+commit b99a2dae981df4b29b1b0b28316bda62926b1aef
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 11 18:34:31 2021 +1100
+
+    29th commit updating all contact links etc
+
+commit 856a1c6722f620e12d4555075cfb440cd8e91faf
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 11 18:12:53 2021 +1100
+
+    28th commit created contact form to see if i could implement it
+
+commit c842a849f927df192b20279fdfa339718b40616e
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 11 17:10:03 2021 +1100
+
+    27th commit working on responsiveness
+
+commit e6e322e564a0ac59983da6c41cb86ee0c8335f91
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 11 14:57:13 2021 +1100
+
+    26th commit added readme file and started populating
+
+commit eb2e7f8c48ad7f56da69840b9efa24843c586400
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 11 14:34:32 2021 +1100
+
+    25th commit added media queries into media css file
+
+commit f9c0ab8a7eaff87e08851acf5e00ef6ead8d7d00
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 11 14:20:10 2021 +1100
+
+    24th commit fixing up blog layouts with borders and added blank media css
+
+commit 9655e8b7c6440e50d32d03cedcfca8af0318719f
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Wed Mar 10 15:40:15 2021 +1100
+
+    23rd commit working on code validation fix ups
+
+commit 372517184f0f6f25f69280af80beeb6050762b65
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Wed Mar 10 15:18:44 2021 +1100
+
+    22nd commit working on page mobile responsiveness
+
+commit c5f4ca98714defc00df4df1b60c4e1697a55c6f8
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Wed Mar 10 13:41:49 2021 +1100
+
+    21st commit updated links to open in new pages when clicked
+
+commit 2d246dd724e3533ffee328c3413394418804eb82
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Wed Mar 10 13:37:31 2021 +1100
+
+    twentieth commit updated footer information and click throughs
+
+commit 725c684e22f031207a9f7adb2891dd68dd022d54
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Tue Mar 9 15:34:36 2021 +1100
+
+    nineteenth commit fixed footer on each page and fixed links on each page plus animation home page
+
+commit 63907e8866693f2f5549c7d3ba9f6515312f9405
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Tue Mar 9 14:44:38 2021 +1100
+
+    eighteenth commit work page updated with cv download
+
+commit 54ddce0e6a166f7ab8d3544e68c42c1d518ab698
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Tue Mar 9 14:05:32 2021 +1100
+
+    seventeenth commit created work study page
+
+commit 87ff6c4440c0d0bfff1ecafd48488db824e9aa23
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Tue Mar 9 12:07:19 2021 +1100
+
+    sixteenth commit linked blog pages to blog page
+
+commit 4a5d8f8c1c04d4b05c32861a891365bebbe7db95
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Tue Mar 9 12:04:14 2021 +1100
+
+    fifteenth commit populated 5 blog pages
+
+commit c120058dfb351afcf61dcf43f7c99d56adc4d910
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Tue Mar 9 11:24:18 2021 +1100
+
+    fourteenth commit started work on blog 1 page
+
+commit 5fc38a6c257b565b497012121373516f4a7a8b2d
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Tue Mar 9 11:12:21 2021 +1100
+
+    thirteenth commit fixed nav icons and click throughs to be centered vertically
+
+commit 696318bdd1eeee913155fb61b4be62689069cdb6
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Mon Mar 8 20:53:35 2021 +1100
+
+    twelfth commit got hamburger menu working after many hours
+
+commit e7ac3b14a05e211a745a8ef5b2c009a0988ec0ce
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Mon Mar 8 12:33:33 2021 +1100
+
+    eleventh commit worked on about me page responsiveness
+
+commit 977000fdc54c75f335960b8fff07f44ee0b23ef6
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Mon Mar 8 12:09:37 2021 +1100
+
+    tenth commit added other pages and started setting up about me
+
+commit 6d35aff22c3e752fcd45bf56ea5c5f2acc8f2274
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Mon Mar 8 10:46:22 2021 +1100
+
+    ninth commit worked with footer settings
+
+commit 77c3db6fbb7d2e61a10f0d2ba273649e04bf9103
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Sun Mar 7 23:05:54 2021 +1100
+
+    eighth commit hamburger menu started
+
+commit e26c33bb488a5e4d8eab74b556dcc2a6d5de0659
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Fri Mar 5 09:09:12 2021 +1100
+
+    eighth commit changed background setup to work for mobile
+
+commit a83264ff9a327ea527a6fd896ad75c355cae233f
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 4 16:37:10 2021 +1100
+
+    seventh commit added footer
+
+commit b7e84d9cc5ad01e5966f6fd19b8a4be409fbf527
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 4 16:32:35 2021 +1100
+
+    sixth commit worked on background image and started responsiveness
+
+commit 85e86f1d189a363962a40d027e96e086b233455e
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 4 14:22:53 2021 +1100
+
+    fifth commit home page title container added
+
+commit c1cc5a66dbf8e15c35393bd577ff2008f55b635b
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 4 14:09:29 2021 +1100
+
+    fourth commit background image added
+
+commit e4a96af9773c152656a9a3e54b92dd826bf19354
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 4 14:00:35 2021 +1100
+
+    third commit nav bar implemented
+
+commit e355585c04f292e1b624cb44625a13dfcd3e93df
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 4 13:26:30 2021 +1100
+
+    second commit added all component files and pages
+
+commit d474f1406354f95a5e4572880b93da4189d5c14d
+Author: suztopp <suzannetopp81@gmail.com>
+Date:   Thu Mar 4 13:11:10 2021 +1100
+
+    initial commit
