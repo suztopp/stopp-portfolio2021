@@ -205,10 +205,14 @@
     flex-wrap: wrap;
     margin: 0;
     justify-content: center;
+    max-height: 30%;
   }
   .workhistory h3 {
     align-content: center;
-    font-size: 28px;
+    font-size: 20px;
+  }
+  .card {
+    display:block;
   }
 }
 
@@ -224,11 +228,16 @@
   }
   .workhistory {
     justify-content: center;
+    max-height: 10vh;
   }
   .workhistory h3 {
     align-content: center;
     font-size: 20px;
   }
+  .workhistory li {
+    font-size: 13px;
+  }
+
   .work-skills {
     max-width: 90%;
     flex-direction: row;
@@ -241,7 +250,7 @@
     font-size: 22px;
   }
   .work-skills li {
-    font-size: 16px;
+    font-size: 10px;
   }
   .blog-post-box {
     padding-top: 20px;
