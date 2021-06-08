@@ -2,9 +2,9 @@
 .main-background {
   font-family: "Roboto", sans-serif;
   color: #d6e9d1;
-  background-image: url(/images/background-image2.jpg);
+  background-image: url(/images/newbackground2.jpg);
   height: 100vh;
-  background-position: center;
+  background-position: bottom;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -50,6 +50,7 @@
 
 .title-container h3 {
   font-size: 50px;
+  color: #3dda12;
   margin-top: 0px;
   margin-bottom: 0px;
 }

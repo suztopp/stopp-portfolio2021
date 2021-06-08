@@ -2,30 +2,67 @@
   /* GRAPHICAL CONMPONENT & SEMANTIC HTML */
   font-family: "Roboto", sans-serif;
   color: #d6e9d1;
-  background-color: #314344;
-  height: 90vh;
-  background-position: center;
+  background-image: url(/images/newbackground2.jpg);
+  /* height: 100vh; */
+  background-position: bottom;
   background-size: cover;
   background-attachment: fixed;
   padding-top: 20px;
 }
+
+.card {
+  color: #d6e9d1;
+  padding: 1rem;
+  /* height: 4rem; */
+  max-width: 1000px;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 1rem;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+
+.card h3 {
+  max-width: 400px;
+}
+
+@media (min-width: 600px) {
+  .cards { grid-template-columns: repeat(2, 1fr); }
+
+}
+
+@media (min-width: 900px) {
+  .cards { grid-template-columns: repeat(3, 1fr); }
+}
+
 /* COMPONENT */
 .work-container {
   max-width: 900px;
   margin: 0 auto;
-  height: 70vh;
+  /* height: 70%; */
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: center;
 }
 /* GRAPHICAL COMPONENT */
 .work-image-container {
-  width: 60%;
+  width: 80%;
 }
 
 .work-image-container img {
   width: 100%;
   border-radius: 20px;
+}
+
+.work-description {
+  width: 70%;
+  padding: 0 0 0 15px;
+}
+
+.work-description p {
+  font-size: 32px;
+  font-weight: bolder;
 }
 
 .work-skills {
@@ -54,4 +91,12 @@
 .download a {
   font-size: 50px;
   color: #e36397;
+}
+
+.project-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 0;
 }

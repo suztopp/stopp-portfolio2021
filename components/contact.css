@@ -1,8 +1,10 @@
 /* GRAPHICAL COMPONENT */
 .main-contact {
-  background-color: #314344;
+  background-image: url(/images/newbackground2.jpg);
   height: 100vh;
-  width: 100%;
+  background-position: bottom;
+  background-size: cover;
+  background-attachment: fixed;
   display: flex;
   align-items: center;
   justify-content: center;

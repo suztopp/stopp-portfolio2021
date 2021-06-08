@@ -2,17 +2,18 @@
   /* GRAPHICAL COMPONENT BACKGROUND */
   font-family: "Roboto", sans-serif;
   color: #d6e9d1;
-  background-image: url(/images/background-image2.jpg);
+  background-image: url(/images/newbackground2.jpg);
   height: 100vh;
-  background-position: center;
+  background-position: bottom;
   background-size: cover;
   background-attachment: fixed;
+  margin-bottom: 0;
 }
 /* COMPONENT */
 .about-me-container {
   max-width: 900px;
   margin: 0 auto;
-  height: 80%;
+  height: 70%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -35,4 +36,29 @@
 .about-me-description p {
   font-size: 32px;
   font-weight: bolder;
+}
+
+.workhistory {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: greenyellow;
+  padding: 0;
+
+}
+
+.workhistory h3 {
+  font-size: 30px;
+  padding: 0;
+  margin: 0;
+}
+
+.workhistory p {
+  font-size: 20px;
+}
+
+.workhistory ul {
+  text-align: center;
+  list-style-position: inside;
+  font-size: 20px;
 }
