@@ -20,7 +20,7 @@
 }
 /* GRAPHICAL COMPONENT */
 .image-container {
-  width: 60%;
+  width: 100%;
 }
 
 .image-container img {
@@ -29,13 +29,21 @@
 }
 
 .about-me-description {
-  width: 70%;
+  width: 55%;
   padding: 0 0 0 15px;
 }
 
 .about-me-description p {
-  font-size: 32px;
+  font-size: 22px;
   font-weight: bolder;
+}
+
+.about-me-description h2 {
+  color: rgb(95, 226, 55);
+}
+
+.about-me-description h3 {
+  color: rgb(95, 226, 55);
 }
 
 .workhistory {

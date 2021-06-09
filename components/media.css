@@ -193,7 +193,7 @@
     justify-content: center;
   }
   .about-me-description p {
-    font-size: 16px;
+    font-size: 14px;
   }
   .download a {
     font-size: 22px;
@@ -214,11 +214,25 @@
   .card {
     display:block;
   }
+  .about-me-description h2 {
+    font-size: 16px;
+  }
+  
+  .about-me-description h3 {
+    font-size: 12px;
+  }
 }
 
 @media only screen and (max-width: 480px) {
   .title-container {
-    margin: 0;
+    margin: 0 auto;
+    align-items: center;
+  }
+  .title-container h1 {
+    text-align: center;
+  }
+  .title-container h3 {
+    text-align: center;
   }
   .work-container {
     flex-wrap: wrap;
@@ -252,29 +266,5 @@
   .work-skills li {
     font-size: 10px;
   }
-  .blog-post-box {
-    padding-top: 20px;
-    padding-bottom: 0;
-    margin-top: 20px;
-  }
-  /* SEMANTIC HTML */
-  .blog-main {
-    height: 100%;
-  }
-  /* SEMANTIC HTML */
-  .blog-main h1 {
-    font-size: 25px;
-  }
-  .blog-main p a {
-    font-size: 18px;
-  }
-  .blog-post-box span {
-    display: none;
-  }
-  .blog-entry p {
-    font-size: 20px;
-  }
-  .blog-entry h1 {
-    font-size: 16px;
-  }
+
 }
